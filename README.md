@@ -30,7 +30,7 @@ An Information Technology student (BSIT) at Data Center Colleges of The Philippi
   <tr>
     <td width="50%" valign="top">
 
-### Dental Record Management System
+### Dental Record Management System | Ongoing
 
 A comprehensive scheduling and record management platform for dental clinics.
 
