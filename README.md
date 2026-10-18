@@ -2,11 +2,17 @@
 
 # 🌱 Jake Carlo G. Mandi
 ### *Full-Stack Web Developer • Systems Architect*
-**GitHub:** [@sprout-main](https://github.com/sprout-main)
-**GitHub(2):** [@jakews2](https://github.com/jakews2)
+<p align="center">
+  <a href="https://github.com/sprout-main">
+    <img src="https://img.shields.io/badge/GitHub-sprout--main-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+  </a>
+  <a href="https://github.com/jakews2">
+    <img src="https://img.shields.io/badge/GitHub-jakews2-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+  </a>
+</p>
 
 [![Status](https://img.shields.io/badge/Status-Building_%26_Shipping-7c3aed?style=flat-square&logo=rocket&logoColor=white)](#-featured-projects)
-[![Live Project](https://img.shields.io/badge/Live-sarak.free.nf-10b981?style=flat-square&logo=leaflet&logoColor=white)](https://sarak.free.nf)
+[![Live Project](https://img.shields.io/badge/SarakGIS-sarak.free.nf-10b981?style=flat-square&logo=leaflet&logoColor=white)](https://sarak.free.nf)
 [![Education](https://img.shields.io/badge/BSIT-Data_Center_Colleges_of_The_Philippines-2563eb?style=flat-square&logo=googleclassroom&logoColor=white)](#-education--experience)
 [![Email](https://img.shields.io/badge/Email-mandijakecarlog%40gmail.com-d97706?style=flat-square&logo=gmail&logoColor=white)](mailto:mandijakecarlog@gmail.com)
 
@@ -190,6 +196,9 @@ Have a project to discuss or an engineering opportunity? Let's connect!
   </a>
   <a href="https://github.com/sprout-main">
     <img src="https://img.shields.io/badge/GitHub-sprout--main-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+  </a>
+  <a href="https://github.com/jakews2">
+    <img src="https://img.shields.io/badge/GitHub-jakews2-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
   <a href="https://sarak.free.nf">
     <img src="https://img.shields.io/badge/Live_Project-sarak.free.nf-10B981?style=for-the-badge&logo=googleearth&logoColor=white" alt="Sarak Live">
